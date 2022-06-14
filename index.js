@@ -1,5 +1,5 @@
 
 // Your code goes here
 document.addEventListener("DOMContentLoaded", ()=>{
-    console.log("This is really cool!")
+    document.querySelector('p').textContent = 'This is really cool!'
 })
